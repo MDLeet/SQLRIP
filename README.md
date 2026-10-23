@@ -1,4 +1,4 @@
-# SQL Analyzer — Streaming CLI
+# [SQLRIP] SQL Analyzer — Streaming CLI
 
 Offline Python command-line tool for analyzing SQL dump files and exporting recognized SQL statements. It **never executes SQL** and never connects to a database.
 
